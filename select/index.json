@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "BLACKHOLE",
+  "base_artist": "IVE",
+  "createdAt": "2026-03-04T10:16:12.487502Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blackhole / Analog Odyssey",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/01_Blackhole___Analog_Odyssey_Beck.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beyond the Blackhole (Live)",
+      "artist": "Gamma Ray",
+      "has_synced": false,
+      "path": "select/02_Beyond_the_Blackhole_(Live)_Gamma_Ray.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beyond the blackhole",
+      "artist": "Gamma Ray",
+      "has_synced": false,
+      "path": "select/03_Beyond_the_blackhole_Gamma_Ray.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blackhole",
+      "artist": "Unknown Brain feat. Ava King",
+      "has_synced": true,
+      "path": "select/04_Blackhole_Unknown_Brain_feat._Ava_King.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blackhole",
+      "artist": "Unknown Brain",
+      "has_synced": true,
+      "path": "select/05_Blackhole_Unknown_Brain.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blackhole",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/06_Blackhole_Beck.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blackhole \u0000 [Analog Odyssey]",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/07_Blackhole_\u0000_[Analog_Odyssey]_Beck.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blackhole Artist",
+      "artist": "Utsu-P",
+      "has_synced": false,
+      "path": "select/08_Blackhole_Artist_Utsu-P.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blackhole",
+      "artist": "Evans Blue",
+      "has_synced": true,
+      "path": "select/09_Blackhole_Evans_Blue.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blackhole (Bonus Track)",
+      "artist": "Evans Blue",
+      "has_synced": true,
+      "path": "select/10_Blackhole_(Bonus_Track)_Evans_Blue.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blackhole Artist",
+      "artist": "鬱P feat. Kagamine Rin&Megpoid",
+      "has_synced": false,
+      "path": "select/11_Blackhole_Artist_鬱P_feat._Kagamine_Rin&Megpoid.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blackhole/Joyride",
+      "artist": "Kyle Craft",
+      "has_synced": false,
+      "path": "select/12_Blackhole_Joyride_Kyle_Craft.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Into the Blackhole",
+      "artist": "HOAX",
+      "has_synced": true,
+      "path": "select/13_Into_the_Blackhole_HOAX.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blackhole",
+      "artist": "MC INSANE",
+      "has_synced": false,
+      "path": "select/14_Blackhole_MC_INSANE.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blackhole",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/15_Blackhole_Beck.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blackhole",
+      "artist": "Callisto",
+      "has_synced": true,
+      "path": "select/16_Blackhole_Callisto.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fall into a Blackhole",
+      "artist": "MISSIO",
+      "has_synced": true,
+      "path": "select/17_Fall_into_a_Blackhole_MISSIO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BLACKHOLE",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_BLACKHOLE_IVE.txt"
+    }
+  ]
+}
